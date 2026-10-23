@@ -27,6 +27,6 @@ The relevant file is `app/public/index.html`. Start with a plan before editing.
 
 | Feature | Issue | Implementation | How to check |
 | --- | --- | --- | --- |
-| PRACTICE-001 | Add your own issue URL. | Not implemented in this starter. | Not verified for your change. |
+| PRACTICE-001 | [Issue #1](https://github.com/kaw393939/218_spec_student_trial/issues/1) | [Branch source](https://github.com/kaw393939/218_spec_student_trial/blob/practice-001-note-help/app/public/index.html) | `npm test`: 6 pass; student-reported Safari checks: help below Note, save and duplicate behavior passed after server restart. |
 
 In your fork, replace this row with your issue, implementation link, and what you actually checked. LINK-001's existing tests check saving; they do not establish that the new help text appears correctly.
